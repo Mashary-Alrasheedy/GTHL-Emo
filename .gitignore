@@ -1,0 +1,11 @@
+.DS_Store
+__pycache__/
+*.pyc
+.ipynb_checkpoints/
+.venv/
+venv/
+.env
+.env.*
+SemEval-2018/*.txt
+SemEval-2025/*.csv
+ExaAEC/*.csv
