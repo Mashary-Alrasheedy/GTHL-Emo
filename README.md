@@ -20,18 +20,15 @@ The framework was evaluated on three Arabic benchmarks:
 - `ExaAEC/`: code for the ExaAEC experiments
 
 ## Dataset Access
-This public repository does not include the raw benchmark datasets.
-Please obtain each dataset from its original source and place the files into the corresponding subfolders before running the code:
+This public repository does not include the raw benchmark datasets. Please obtain each dataset from its original source and place the files into the corresponding subfolders before running the code:
 
-- `SemEval-2018/`
-- `SemEval-2025/`
-- `ExaAEC/`
+- `SemEval-2018/`: [SemEval-2018 Task 1: Affect in Tweets]([https://aclanthology.org/S18-1001/](https://huggingface.co/datasets/SemEvalWorkshop/sem_eval_2018_task_1))
+- `SemEval-2025/`: [SemEval-2025 Task 11: Bridging the Gap in Text-Based Emotion Detection (official task page with dataset/download links)](https://github.com/emotion-analysis-project/SemEval2025-Task11)
+- `ExaAEC/`: [ExaAEC: A New Multi-label Emotion Classification Corpus in Arabic Tweets](https://github.com/exaco/exaaec)
 
-Please also acknowledge and cite the original dataset sources where appropriate:
+Please also acknowledge and cite the original organizers of these dataset sources.
 
-- SemEval-2018 Task 1: Affect in Tweets
-- SemEval-2025 Track A (Arq)
-- ExaAEC corpus
+
 
 ## Citation
 If you use this repository, please cite:
