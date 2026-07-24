@@ -9,3 +9,17 @@ venv/
 SemEval-2018/*.txt
 SemEval-2025/*.csv
 ExaAEC/*.csv
+
+# Generated experiment outputs and local model/cache files
+cache/
+models/
+results/
+figures/
+tables/
+logs/
+latex_exports/
+archive_runs/
+*.pt
+*.pth
+*.ckpt
+*.zip

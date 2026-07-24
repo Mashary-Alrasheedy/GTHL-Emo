@@ -7,7 +7,6 @@ Original file is located at
     https://colab.research.google.com/drive/1IuwZhWk1gegfeuR6JaB5nqY6CJ-igD4l
 """
 
-!pip install emoji
 import warnings
 warnings.filterwarnings("ignore", message="`encoder_attention_mask` is deprecated", category=FutureWarning)
 import emoji

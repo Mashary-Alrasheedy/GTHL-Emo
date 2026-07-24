@@ -1,0 +1,15 @@
+cff-version: 1.2.0
+message: "If you use this software, please cite the versioned repository and the associated publication."
+title: "GTHL-Emo"
+type: software
+authors:
+  - family-names: "Alrasheedy"
+    given-names: "Mashary N."
+  - family-names: "Tiun"
+    given-names: "Sabrina"
+  - family-names: "Fauzi"
+    given-names: "Fariza"
+repository-code: "https://github.com/Mashary-Alrasheedy/GTHL-Emo"
+version: "1.0.0"
+date-released: "2026-07-24"
+license: "MIT"

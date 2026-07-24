@@ -7,7 +7,6 @@ Original file is located at
     https://colab.research.google.com/drive/1di2BB8qps42VlU9oxRqg1i_l_rd54-LU
 """
 
-!pip install Emoji
 import os
 import random
 import numpy as np

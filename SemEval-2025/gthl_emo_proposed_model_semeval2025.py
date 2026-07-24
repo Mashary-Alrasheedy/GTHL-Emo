@@ -7,7 +7,6 @@ Original file is located at
     https://colab.research.google.com/drive/1eQ9iXrM08k8lTavJH2hm5kLZRoKRTJxo
 """
 
-!pip install emoji
 import os
 import random
 import numpy as np
@@ -1157,8 +1156,6 @@ Install the `graphviz` library.
 **Reasoning**:
 The subtask is to install the `graphviz` library. This can be done using pip in a code block.
 """
-
-!pip install graphviz
 
 """## Define the graph structure
 
